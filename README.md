@@ -32,6 +32,9 @@ Projeto realizado apenas para estudo de novas stacks 😉
 * \<link rel='icon' type='image/png' sizes='16x16' href='https://www.gardentec.com.br/favicon-16x16.png'>
 
 Observações: Utilizado em rede local, para não alterar o ip ao reiniciar os equipamentos, faça a reserva do ip MAC ADDRES no modem/roteador.
+
+**Esquema Elétrico**
+![Esquema Elétrico](https://github.com/luizinlara/porta-enrolar/blob/main/projeto-porta-enrolar.png?raw=true)
 # Autor
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/62263833?s=400&u=aca12fba393c657d421d37baf79a9a0f4ae46457&v=4" width=115><br><sub>Luis Lara</sub>](https://github.com/luizinlara)  |
